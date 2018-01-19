@@ -8,7 +8,8 @@
 
 
 /*
-  This function will create a script tag on the HTML, inside it it will call the API url, the api will respond calling a callback function "mycallback" in your code to handle the response
+  This function will create a script tag on the HTML, inside it it will call the API url
+  The api will respond calling a callback function "mycallback" in your code to handle the response
   @return none, will call the mycallback function to handle the api response
 */
 
