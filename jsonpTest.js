@@ -10,4 +10,4 @@ function mycallback(data) {
   document.getElementsByTagName("head")[0].removeChild(document.getElementById("jsonpCall"));
 }
 
-jsonpp();
+jsonpRequest();
