@@ -12,5 +12,5 @@ function callback(data){
 
 /*To use just load this module (require it or load it before your main js script)
 and call jsonpRequest with the correct url to do the request
-then add a function named handleJSONP() to your code to hanlde the request
+then add a function named handleJSONP() to your code to handle the request
 */
