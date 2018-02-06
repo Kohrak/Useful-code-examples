@@ -11,5 +11,5 @@ function callback(data){
 }
 
 //To use just load the script, call jsonpRequest with the correct url
-//make sure to call your callback function as mycallback
+//make sure to call your callback function as callback
 //add a funciont handleJSONP() to your code to hanlde the request
